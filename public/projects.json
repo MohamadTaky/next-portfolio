@@ -1,0 +1,26 @@
+{
+  "taky-chess": {
+    "name": "Taky Chess",
+    "description": "Online multiplayer chess game made with Next.js and web sockets using Pusher.js and Redis.",
+    "image": "/projects/taky-chess-1.png",
+    "tags": ["Next.js", "Tailwindcss", "Redis", "Pusher"],
+    "github": "https://github.com/MohamadTaky/taky-chess",
+    "liveSite": "https://taky-chess.vercel.app"
+  },
+  "type-fusion": {
+    "name": "Type Fusion",
+    "description": "a web application that tests typing speed and accuracy while giving an overview about typing performance, the app also features a simple leaderboard that lists the top ten users based on the score of their latest performed test.",
+    "image": "/projects/type-fusion-1.png",
+    "tags": ["Mongodb", "Express", "React", "D3.js"],
+    "github": "https://github.com/MohamadTaky/type-fusion",
+    "liveSite": "https://typefusion.vercel.app"
+  },
+  "tetris": {
+    "name": "Tetris",
+    "description": "The popular game of Tetris recreated in the browser using vanilla JS (typescript), mobile support included.",
+    "image": "/projects/tetris-1.png",
+    "tags": ["TypeScript"],
+    "github": "https://github.com/MohamadTaky/taky-tetris",
+    "liveSite": "https://taky-tetris.vercel.app"
+  }
+}
